@@ -1,0 +1,4 @@
+evernote3==1.25.14
+beautifulsoup4==4.6.0
+pydantic==1.8.2
+python-dotenv-0.20.0
